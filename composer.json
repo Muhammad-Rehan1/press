@@ -1,0 +1,15 @@
+{
+    "name": "vicgonvt/press",
+    "description": "An elegant markdown-powered blog for the Laravel framework.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Muhammad Rehan",
+            "email": "rehanalisattar@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "orchestra/testbench": "^4.0"
+    }
+}
